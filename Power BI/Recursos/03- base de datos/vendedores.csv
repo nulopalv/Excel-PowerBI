@@ -1,0 +1,21 @@
+vendedor_id,nombre_vendedor,email,telefono,fecha_alta,tienda_id
+1,Ana García,ana.garcia@motoride.com,+34 652880483,2020-08-31,1
+2,Luis Pérez,luis.perez@motoride.com,+34 678695681,2022-10-26,1
+3,Carlos Martín,carlos.martin@motoride.com,+34 623775684,2023-08-18,2
+4,Marta López,marta.lopez@motoride.com,+34 690668968,2021-04-02,2
+5,Sofía Hernández,sofia.hernandez@motoride.com,+34 684700087,2023-06-26,3
+6,Jorge Ruiz,jorge.ruiz@motoride.com,+34 686848884,2022-05-11,3
+7,Lucía Torres,lucia.torres@motoride.com,+34 675888073,2023-01-26,4
+8,David Sánchez,david.sanchez@motoride.com,+34 669202768,2023-04-16,4
+9,Elena Castro,elena.castro@motoride.com,+34 610340220,2021-05-06,5
+10,Pablo Romero,pablo.romero@motoride.com,+34 620834547,2023-06-11,5
+11,Raquel Navarro,raquel.navarro@motoride.com,+34 648552728,2020-08-14,6
+12,Miguel Ortega,miguel.ortega@motoride.com,+34 670351650,2020-07-19,6
+13,Nuria Molina,nuria.molina@motoride.com,+34 675805171,2020-01-24,7
+14,Alberto Vega,alberto.vega@motoride.com,+34 652175656,2023-10-23,7
+15,Sara Domínguez,sara.dominguez@motoride.com,+34 663313617,2021-03-06,8
+16,Iván Morales,ivan.morales@motoride.com,+34 656661846,2021-05-30,8
+17,Beatriz Santos,beatriz.santos@motoride.com,+351 960512102,2021-12-31,9
+18,Tiago Pereira,tiago.pereira@motoride.com,+351 995592988,2022-11-17,9
+19,Mariana Costa,mariana.costa@motoride.com,+351 955686986,2020-06-05,10
+20,João Almeida,joao.almeida@motoride.com,+351 984819744,2020-07-02,10

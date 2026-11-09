@@ -1,0 +1,21 @@
+producto_id,nombre_producto,categoria,precio,stock_estado,marca
+1,Honda PCX 125,Motos,3390.0,Disponible,Honda
+2,Yamaha MT-07,Motos,7999.0,Disponible,Yamaha
+3,Kawasaki Z900,Motos,9999.0,Disponible,BMW
+4,BMW R 1250 GS,Accesorios,19950.0,Bajo stock,Givi
+5,Ducati Monster,Accesorios,12990.0,Disponible,Shoei
+6,KTM 390 Adventure,Ropa,7299.0,Disponible,Dainese
+7,Suzuki V-Strom 650,Ropa,8995.0,Disponible,Alpinestars
+8,Vespa Primavera 125,Recambios,4999.0,Disponible,Michelin
+9,Shoei NXR2 Helmet,Motos,529.0,Disponible,Honda
+10,Arai Quantic Helmet,Motos,649.0,Bajo stock,Yamaha
+11,Dainese Carbon Gloves,Motos,159.0,Disponible,BMW
+12,Alpinestars Andes Jacket,Accesorios,299.0,Disponible,Givi
+13,Sidi Adventure 2 Boots,Accesorios,349.0,Disponible,Shoei
+14,Givi Trekker Side Cases,Ropa,599.0,Disponible,Dainese
+15,Akrapovic Slip-On Exhaust,Ropa,899.0,Bajo stock,Alpinestars
+16,Quad Lock Handlebar Mount,Recambios,59.9,Disponible,Michelin
+17,Oxford Heated Grips,Motos,89.9,Disponible,Honda
+18,Rev'it Eclipse Jacket,Motos,189.0,Disponible,Yamaha
+19,Michelin Road 6 Tyre Set,Motos,329.0,Disponible,BMW
+20,Brembo Front Brake Pads,Accesorios,79.9,Disponible,Givi

@@ -1,0 +1,11 @@
+tienda_id,nombre_tienda,ciudad,region,tipo_tienda,estado
+1,MotoRide Madrid Castellana,Madrid,Centro,Concesionario,Abierta
+2,MotoRide Barcelona Diagonal,Barcelona,Este,Concesionario,Abierta
+3,MotoRide Valencia Turia,Valencia,Este,Showroom,Abierta
+4,MotoRide Sevilla Nervión,Sevilla,Sur,Concesionario,Abierta
+5,MotoRide Bilbao Gran Vía,Bilbao,Norte,Showroom,Abierta
+6,MotoRide Málaga Costa,Málaga,Sur,Outlet,Abierta
+7,MotoRide Zaragoza Plaza,Zaragoza,Centro,Concesionario,Abierta
+8,MotoRide Alicante Playa,Alicante,Este,Outlet,Abierta
+9,MotoRide Lisboa Centro,Lisboa,Oeste,Concesionario,Abierta
+10,MotoRide Oporto Norte,Oporto,Oeste,Showroom,Abierta
